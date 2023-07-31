@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#hero{
+    height: 140vh;
+    background-image: url('./business-woman-gea81af410_1280.jpg');
+    background-position: center;
+    background-size: cover;
+}
+#more{
+    height: 20vh;
+    background-color: red;
+    color: white;
+}
+footer{
+    background-color: #131313;
+    color: white;
+}
+.card1:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    
+}
+.card2:hover{
+    background-color:red;
+    cursor: pointer;
+    color: white;
+    
+}
+.card3:hover{
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    
+}
